@@ -21,6 +21,5 @@ Este proyecto permite a los usuarios resolver sistemas de dos ecuaciones lineale
 
 ## Demo 🏃‍♂️
 
-```bash
-https://arcane-beach-18066-5291037a4958.herokuapp.com/
-```
+
+[Demo en heroku](https://arcane-beach-18066-5291037a4958.herokuapp.com/
